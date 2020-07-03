@@ -1,1 +1,1 @@
-# django-movie-api
+# Movie Rating App
